@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to 2019!"
+date:   2019-01-02 17:01:45 -0500
+categories: misc
+permalink: /:categories/:year/:month/:day/:title.html
+---
+Hello there!
+
+It's 2019! I am starting a new year by writing my first blog post using a new tool for blogs called Jekyll. Previously I had blogs based on different platforms including Blogspot, Facebook, Mail.ru. Those platforms worked fine, but sometimes I wasn't happy about something with them.
+
+The idea to start a new blog appeared at the end of 2018. I decided to find a blogging tool that would be just enough for my needs. In particular, code highlighting functionality and simple text editing.
+
+Jekyll attracted my attention. It's a tool for generating static websites. You locally have to create content and move it to a hosting. Many software developers use this tool to create their blogs. They use GitHub platform to host their blogs.
+
+I decided to give it a try and see how it works. It took me a couple of hours to read an introduction and how to start using the tool. After that, I wrote and published this first blog post. 

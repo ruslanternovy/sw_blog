@@ -9,6 +9,4 @@ Using Jekyll is fun. You have to follow certain steps to make it work properly. 
 
 0. To set up a Jekyll blog on your computer locally go to this link and follow the instructions. A documentation about creating a Jekyll website you can find at the official [Jekyll website](https://jekyllrb.com/docs/)
 
-1. Working with Jekyll will be a bit tricky if you publish your Jekyll website/blog on GitHub. In particular working with _config.yml where you have to put "baseurl" setting.
-For testing purposes on local host there should be nothing. When you publish a website with the updates, make sure you add "baseurl" setting. In my case it is:
-baseurl: "sw_blog"
+1. [Jekyll step-by-step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) was a very useful resource for me to set up the initial layout of my blog. Just follow every step they describe in the menu.

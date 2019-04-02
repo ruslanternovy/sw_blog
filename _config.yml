@@ -26,7 +26,7 @@ permalink: date
 # Add the baseurl value if run on a remote hosting ("sw_blog")
 # To test locally restart Jekyll after baseurl changes
 baseurl: "/sw_blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ruslanternovy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ruslanternovy
 highlighter: rouge # syntax highlighter

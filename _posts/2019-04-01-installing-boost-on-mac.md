@@ -3,7 +3,6 @@ layout: post
 title:  "Installing boost libraries on Mac"
 date:   2019-04-01 1:11:15 -0500
 categories: boost
-permalink: pretty
 ---
 This post is a reminder for how to get and install [boost libraries](http://www.boost.org) on Mac computer using brew.
 

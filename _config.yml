@@ -17,6 +17,11 @@ title: Software development blog
 email: ruslanternovy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about my learning experience in writng software
+# The variable 'premalink' was created to reduce writing a permalink format in
+# the front matter. Value 'date' stands for
+# /:categories/:year/:month/:day/:title:output_ext
+# See description at https://jekyllrb.com/docs/permalinks/#built-in-formats
+permalink: date
 # Remove the baseurl value if run on localhost
 # Add the baseurl value if run on a remote hosting ("sw_blog")
 # To test locally restart Jekyll after baseurl changes

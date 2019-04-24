@@ -13,4 +13,4 @@ Since I use a lot vim for writing test programs just to check how this or that f
 [Control][u] - Move back (up) 1/2 screen
 {% endhighlight %}
 
-My association for remembering those shortcuts at least first two will be to remember letter 'b' stands for backwards, letter 'f' stands for forward
+My association for remembering those shortcuts at least first two will be to remember letter 'b' stands for backwards, letter 'f' stands for forward. Letters 'd' and 'u' stand respectively for 'down' and 'up'.

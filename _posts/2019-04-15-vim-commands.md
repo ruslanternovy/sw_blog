@@ -14,3 +14,10 @@ Since I use a lot vim for writing test programs just to check how this or that f
 {% endhighlight %}
 
 My association for remembering those shortcuts at least first two will be to remember letter 'b' stands for backwards, letter 'f' stands for forward. Letters 'd' and 'u' stand respectively for 'down' and 'up'.
+
+Navigation in vim by word
+{% highlight bash %}
+w - jump to the beginning of the next word.
+W - jump to the beginning of the next word that can contain a punctuation.
+b - jump backwards to the beginning of the word.
+{% endhighlight %}

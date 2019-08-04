@@ -21,3 +21,10 @@ w - jump to the beginning of the next word.
 W - jump to the beginning of the next word that can contain a punctuation.
 b - jump backwards to the beginning of the word.
 {% endhighlight %}
+
+One useful command for replacing
+{% highlight bash %}
+:%s/string to replace/replacement string/g
+{% endhighlight %}
+Last g in the command stands for globally which means provide replacement globally
+There can be another variant of the replacement commands which includes 'gc' in the end of the commands instead of just 'g' which means 'replace with confirmation'.

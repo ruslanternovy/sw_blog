@@ -10,6 +10,7 @@ Let's start with run!
 {% highlight bash %}
 docker run
 {% endhighlight %}
-This commands specifies an image to derive a docker container from using options followed by commands and arguments.
-{$ highlight bash %}
+These commands specifies an image to derive a docker container from using options followed by commands and arguments.
+{% highlight bash %}
 docker run [OPTIONS] IMAGE[TAG] [COMMAND] [ARGUMENTS]
+{% endhighlight %}

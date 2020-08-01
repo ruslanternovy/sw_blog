@@ -13,8 +13,8 @@ Using Jekyll is fun. You have to follow certain steps to make it work properly. 
 2. Jekyll uses the Liquid templating language to process templates. Liquid parses all instances of {% raw %}{{, }}{% endraw %}, {% raw %}{%, %}{% endraw %} as Liquid constructs. To tell Liquid not to parse such instances, wrap the code inside Liquid's raw blocks: {% raw %}<{{<your code is here>}}>{% endraw %}
 
 3. [2019-04-04] I have bumped into a little issue that was causing an error message in the Jekyll log file:
-{% highlight console %}
-[2019-04-04 13:05:44] ERROR `/favicon.ico' not found.
+{% highlight bash %}
+[2019-04-04 13:05:44] ERROR '/favicon.ico' not found.
 {% endhighlight %}
 [The solution to this problem](https://github.com/jekyll/jekyll/issues/7329#issuecomment-431699560) was to just generate a new file with name 'favicon.ico' in the root directory of the local Jekyll website:
 {% highlight console %}
